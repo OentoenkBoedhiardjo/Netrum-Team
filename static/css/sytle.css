@@ -184,6 +184,9 @@ section{
         margin: 2rem;
         transition: transform .5s;
     }
+    .logo{
+        
+    }
 
     @keyframes fadeIn {
         from{
